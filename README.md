@@ -24,7 +24,6 @@
 
   <!-- Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-lima99&theme=transparent" alt="GitHub Streak">
-  <img align="right" alt="Totoro" src="https://media.tenor.com/2PVH7hArX-0AAAAj/totoro-jumping.gif">
 </div>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daniel-lima99/daniel-lima99/output/github-contribution-grid-snake-dark.svg">
