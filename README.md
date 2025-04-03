@@ -14,16 +14,11 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=daniel-lima99&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+ <!-- Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-lima99&theme=transparent" alt="GitHub Streak">
+
 ![Snake animation](https://github.com/daniel-lima99/daniel-lima99/blob/output/github-contribution-grid-snake.svg)
 
-  <!-- Estatísticas do GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=daniel-lima99&show_icons=true&count_private=true&hide=prs&theme=transparent" alt="GitHub Stats">
-
-  <!-- Linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-lima99&layout=compact&theme=transparent" alt="Top Linguagens">
-
-  <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-lima99&theme=transparent" alt="GitHub Streak">
 </div>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daniel-lima99/daniel-lima99/output/github-contribution-grid-snake-dark.svg">
