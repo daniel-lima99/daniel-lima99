@@ -18,13 +18,13 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-lima99&theme=transparent" alt="GitHub Streak">
 
 ![Snake animation](https://github.com/daniel-lima99/daniel-lima99/blob/output/github-contribution-grid-snake.svg)
-
+<!--
 </div>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daniel-lima99/daniel-lima99/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daniel-lima99/daniel-lima99/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/daniel-lima99/daniel-lima99/output/github-contribution-grid-snake.svg">
-</picture>
+</picture> -->
 
 - 💞️ I’m looking to collaborate on ...
 
