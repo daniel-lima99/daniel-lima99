@@ -29,7 +29,6 @@
 <a href="https://github.com/daniel-lima99">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-lima99&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=daniel-lima99&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
  <!-- Streak -->
 <img loading="lazy" src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-lima99&theme=dracula" alt="GitHub Streak">
 
