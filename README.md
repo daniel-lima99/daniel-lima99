@@ -32,7 +32,7 @@
  <!-- Streak -->
 <img loading="lazy" src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-lima99&theme=dracula" alt="GitHub Streak">
 
-<img align="center" alt="Sanji e Zoro" src="https://tenor.com/pt-BR/view/zoro-sanji-roronoa-zoro-one-piece-zoro-one-piece-gif-4487527197875319339">
+<img align="center" alt="Sanji e Zoro" src="https://media1.tenor.com/m/PkbmNeVDMisAAAAC/zoro-sanji.gif">
 
 ![Snake animation](https://github.com/daniel-lima99/daniel-lima99/blob/output/github-contribution-grid-snake.svg)
 <!--
