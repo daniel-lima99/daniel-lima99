@@ -32,6 +32,8 @@
  <!-- Streak -->
 <img loading="lazy" src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-lima99&theme=dracula" alt="GitHub Streak">
 
+<div class="tenor-gif-embed" data-postid="4487527197875319339" data-share-method="host" data-aspect-ratio="1.5" data-width="100%"><a href="https://tenor.com/view/zoro-sanji-roronoa-zoro-one-piece-zoro-one-piece-gif-4487527197875319339">Zoro Sanji GIF</a>from <a href="https://tenor.com/search/zoro-gifs">Zoro GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 ![Snake animation](https://github.com/daniel-lima99/daniel-lima99/blob/output/github-contribution-grid-snake.svg)
 <!--
 </div>
