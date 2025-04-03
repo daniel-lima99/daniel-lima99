@@ -15,7 +15,7 @@
 </div>
 
  <!-- Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-lima99&theme=transparent" alt="GitHub Streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-lima99&theme=dracula" alt="GitHub Streak">
 
 ![Snake animation](https://github.com/daniel-lima99/daniel-lima99/blob/output/github-contribution-grid-snake.svg)
 <!--
