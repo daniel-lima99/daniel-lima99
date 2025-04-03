@@ -1,7 +1,6 @@
 ## Hello world?
 👋 Bão? Firme.
-### Don't speak my language? Just scroll down a little bit 👀
-### 🌱 Tecnologias que estou estudando:
+### 🌱 Tecnologias que estou estudando (Technologies I am studying):
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
@@ -19,12 +18,12 @@
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
 
 
-### 📫 Meus contatos:
+### 📫 Meus contatos (Reach me out):
 <div>
 <a href="https://www.linkedin.com/in/dan-lima99" target="_blank"><img loading="lazy" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>  
 </div>
 
-### Estatísticas do Github
+### Estatísticas do Github (Github statistics):
 <div>
 <a href="https://github.com/daniel-lima99">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-lima99&layout=compact&langs_count=7&theme=dracula"/>
