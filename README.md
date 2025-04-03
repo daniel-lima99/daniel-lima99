@@ -16,6 +16,22 @@
 
 ![Snake animation](https://github.com/daniel-lima99/daniel-lima99/blob/output/github-contribution-grid-snake.svg)
 
+  <!-- Estatísticas do GitHub -->
+  <img src="https://github-readme-stats.vercel.app/api?username=daniel-lima99&show_icons=true&count_private=true&hide=prs&theme=transparent" alt="GitHub Stats">
+
+  <!-- Linguagens mais usadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-lima99&layout=compact&theme=transparent" alt="Top Linguagens">
+
+  <!-- Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-lima99&theme=transparent" alt="GitHub Streak">
+  <img align="right" alt="Totoro" src="https://media.tenor.com/2PVH7hArX-0AAAAj/totoro-jumping.gif">
+</div>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daniel-lima99/daniel-lima99/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daniel-lima99/daniel-lima99/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/daniel-lima99/daniel-lima99/output/github-contribution-grid-snake.svg">
+</picture>
+
 - 💞️ I’m looking to collaborate on ...
 
 - 😄 Pronouns: ...
