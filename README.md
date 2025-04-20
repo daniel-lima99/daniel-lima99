@@ -34,4 +34,8 @@
 
 <img align="center" alt="Sanji e Zoro" src="https://media1.tenor.com/m/PkbmNeVDMisAAAAC/zoro-sanji.gif">
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daniel-lima99/daniel-lima99/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daniel-lima99/daniel-lima99/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/daniel-lima99/daniel-lima99/output/github-snake.svg" />
+</picture>
